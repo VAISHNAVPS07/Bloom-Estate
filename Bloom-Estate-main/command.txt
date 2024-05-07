@@ -1,0 +1,31 @@
+root:
+npm create vite@latest client
+npm init -y
+npm i express
+npm i nodemon
+npm i mongoose
+npm i dotenv
+npm i bcryptjs
+npm i jsonwebtoken
+npm i cookie-parser
+
+
+
+client:
+npm i
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm install @tailwindcss/line-clamp
+npm i react-router-dom
+npm i react-icons
+npm install @reduxjs/toolkit react-redux
+npm i redux-persist 
+npm install firebase
+npm i swiper
+npm install -D @tailwindcss/line-clamp
+
+
+
+
+backend:
+npm i mongoose
